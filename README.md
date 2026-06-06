@@ -1,5 +1,5 @@
-# 欢迎使用你的秒哒应用代码包
-秒哒应用链接
+# 欢迎使用我的应用代码包
+应用链接
     URL:https://www.miaoda.cn/projects/app-buovwyuyvzlt
 
 ## 介绍
